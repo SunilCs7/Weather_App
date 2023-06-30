@@ -1,2 +1,2 @@
-# Weather_App
-This  weather app provides atmospheric pressure, weather conditions, visibility distance, relative humidity.
+# Weather-App
+Moving Basic level to Medium level in JS
